@@ -2,5 +2,5 @@
 #include "../Card.h"
 
 Card::CardType Bastet::get_type() const{
-    return Card::CardType::BARTER;
+    return Card::CardType::BASTET;
 }
